@@ -1,2 +1,2 @@
-# Ol-mundo
+# Olá, mundo!
 Primeiro repositorio funcional
