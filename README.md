@@ -5,3 +5,5 @@ Primeiro repositorio funcional.
 
 
 aqui foi descrito o uso correto de git e github
+
+altração remota no readme
